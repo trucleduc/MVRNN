@@ -16,7 +16,7 @@ If you find this code useful, please cite our work at <br />
 	author = {Truc Le and Giang Bui and Ye Duan},
 	titile = {{A multi-view recurrent neural network for 3D mesh segmentation}},
 	journal = {Computers \& Graphics},
-  pages = {103--112},
+	pages = {103--112},
 	month = {August},
 	year = {2017},
 }
